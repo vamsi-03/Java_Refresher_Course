@@ -1,0 +1,101 @@
+Welcome to Banking Application
+
+Select Account Type:
+1. Savings Account
+2. Current Account
+3. Exit
+1
+Enter Initial Balance:
+10000
+
+Select Operation:
+1. Deposit
+2. Withdraw
+3. Exit
+1
+Enter Amount:
+10000
+Interest Added: Rs.700.0000000000001
+Deposit Successful!
+Updated Balance: Rs.20700.0
+
+Select Operation:
+1. Deposit
+2. Withdraw
+3. Exit
+2
+Enter Amount:
+10000
+Withdrawal Successful!
+Interest Added: Rs.749.0000000000001
+Updated Balance: Rs.11449.0
+
+Select Operation:
+1. Deposit
+2. Withdraw
+3. Exit
+3
+Thank you for using our application!
+
+Select Account Type:
+1. Savings Account
+2. Current Account
+3. Exit
+2
+Enter Initial Balance:
+25000
+
+Select Operation:
+1. Deposit
+2. Withdraw
+3. Exit
+1
+Enter Amount:
+50000
+Deposit Successful!
+Updated Balance: Rs.75000.0
+
+Select Operation:
+1. Deposit
+2. Withdraw
+3. Exit
+2
+Enter Amount:
+10000
+Withdrawal Successful!
+Updated Balance: Rs.65000.0
+
+Select Operation:
+1. Deposit
+2. Withdraw
+3. Exit
+1
+Enter Amount:
+78000
+Deposit Successful!
+Updated Balance: Rs.143000.0
+
+Select Operation:
+1. Deposit
+2. Withdraw
+3. Exit
+2
+Enter Amount:
+75000
+Transaction Fee Deducted: Rs.12.5
+Withdrawal Successful!
+Updated Balance: Rs.67987.5
+
+Select Operation:
+1. Deposit
+2. Withdraw
+3. Exit
+3
+Thank you for using our application!
+
+Select Account Type:
+1. Savings Account
+2. Current Account
+3. Exit
+3
+Thank you for using our application!
